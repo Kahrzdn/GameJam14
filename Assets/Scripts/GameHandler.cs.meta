@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a5efd03b15dc59642a7cf7591490982d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - guiDataCompromised: {instanceID: 0}
+  - guiDataCollected: {instanceID: 0}
+  - dataPrefab: {instanceID: 0}
+  - dataGatheredSound: {fileID: 8300000, guid: 1adaf02cfaa066d4db9049b2baa3b01f, type: 3}
+  executionOrder: -300
+  icon: {instanceID: 0}
+  userData: 
